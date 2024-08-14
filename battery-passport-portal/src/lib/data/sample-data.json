@@ -1,0 +1,138 @@
+{
+    "battery_information": {
+      "battery_identifier": "EV-B456789",
+      "manufacturer_identification": {
+        "manufacturer_name": "EV Tech Inc.",
+        "manufacturer_contact": "John Doe",
+        "manufacturer_address": "1234 Electric Avenue, Cityville, EV",
+        "manufacturer_email": "info@evtech.com",
+        "manufacturer_website": "www.evtech.com",
+        "manufacturing_date": "2023-05-20",
+        "manufacturing_place": "Germany",
+        "battery_category": "Lithium-ion",
+        "battery_weight": "400 kg",
+        "battery_status": "Operational"
+      }
+    },
+    "labels_and_certifications":{
+      "eu_declaration_of_conformity": "/lib/data/EU declaration of conformity-en.pdf",
+      "id_declaration_of_conformity": "EU-DOC-2023-ABC123",
+      "results_test_reports": "EV_Report456",
+      "separate_collection_symbol": "Recycle",
+      "meaning_labels_and_symbols": "Recyclable, This product or packaging is recyclable. Please dispose of it in the recycling bin.",
+      "cadmium_and_lead_symbols": "EV_CdPb456"
+    },
+    "carbon_footprint": {
+      "total_battery_carbon_footprint": "2000 kgCO2e",
+      "carbon_footprint_per_lifecycle_stage": {
+          "raw_material_acquisition_and_pre_processing": "10%",
+          "main_product_production": "30%",
+          "distribution": "15%",
+          "end_of_life_and_recycling": "5%"
+      },
+      "performance_class": "ClassA",
+      "carbon_footprint_study_link": "https://example.com/ev-carbon-study"
+    },
+    "battery_material_composition":{
+      "critical_raw_materials": "Lithium, Cobalt",
+      "battery_chemistry": "LiFePO4",
+      "materials_information": {
+        "cathode": {
+          "name": "LFP Cathode",
+          "related_identifiers": "LFP_Cathode_ID456",
+          "weight": "200 kg"
+        },
+        "anode": {
+          "name": "Graphite Anode",
+          "related_identifiers": "Graphite_Anode_ID456",
+          "weight": "150 kg"
+        },
+        "electrolyte": {
+          "name": "LiPF6 Electrolyte",
+          "related_identifiers": "LiPF6_Electrolyte_ID456",
+          "weight": "50 kg"
+        }
+      },
+      "hazardous_substances": {
+        "name": "N/A",
+        "classes_and_categories": "N/A",
+        "related_identifiers": "N/A",
+        "location": "N/A",
+        "concentration_range": "N/A",
+        "impact": "N/A"
+      }
+    },
+    "circularity_and_resource_efficiency": {
+      "spare_parts_information": {
+        "manual_for_removal_of_battery_from_appliance":"",
+        "manual_for_disassembly_and_dismantling_of_battery_pack":"",
+        "postal_address": "456 EV Parts St, Cityville",
+        "email_address": "evparts@example.com",
+        "web_address": "https://example.com/ev-parts",
+        "part_numbers_for_components":""
+      },
+      "safety_information": {
+        "extinguishing_agent": "EV_FireExtinguisher456",
+        "safety_measures_and_instructions": ""
+      },
+      "pre_consumer_recycled_material_shares": {
+        "nickel": "25%",
+        "cobalt": "20%",
+        "lithium": "15%",
+        "lead": "10%"
+      },
+      "post_consumer_recycled_material_shares": {
+        "nickel": "8%",
+        "cobalt": "5%",
+        "lithium": "3%",
+        "lead": "1%"
+      },
+      "renewable_content_share": "40%",
+      "end_user_roles": {
+        "waste_prevention": "",
+        "separate_collection": ""
+      },
+      "info_seperate_collection_and_recycling_operations": ""
+    },
+    "performance_and_durability":{
+      "state_of_certified_energy": "Excellent",
+      "rated_capacity": "80 kWh",
+      "remaining_capacity": "75 kWh",
+      "capacity_fade": "6%",
+      "state_of_charge": "90%",
+      "nominal_voltage": "400 V",
+      "minimum_voltage": "350 V",
+      "maximum_voltage": "450 V",
+      "original_power_capability": "120 kW",
+      "remaining_power_capability": "110 kW",
+      "power_capability_fade": "8%",
+      "max_permitted_battery_power": "150 kW",
+      "initial_round_trip_energy_efficiency": "94%",
+      "round_trip_energy_efficiency_at_50_percent_cycle_life": "90%",
+      "remaining_round_trip_energy_efficiency": "88%",
+      "round_trip_energy_efficiency_fade": "Decreasing",
+      "initial_internal_resistance_on_battery_cell_level": "2.5 mOhm",
+      "initial_internal_resistance_on_battery_pack_level": "25 mOhm",
+      "expected_lifetime": "6000 cycles",
+      "number_of_charge_discharge_cycles": 6000,
+      "cycle_life_reference_test": "ISO Standard",
+      "c_rate_of_relevant_cycle_life_test": "1C",
+      "capacity_threshold_for_exhaustion": "10%",
+      "warranty_period_of_the_battery": "8 years",
+      "date_of_putting_the_battery_into_service": "2022-10-01",
+      "temperature_range_idle_state": {
+        "lower_boundary": "-15°C",
+        "upper_boundary": "40°C"
+      },
+      "time_spent_in_extreme_temps": {
+        "above_boundary": "12 hours",
+        "below_boundary": "8 hours"
+      },
+      "time_spent_charging_in_extreme_temps": {
+        "above_boundary": "12 hours",
+        "below_boundary": "8 hours"
+      },
+      "information_on_accidents": "No accidents reported"
+    },
+    "supply_chain_due_diligence": ""
+  } 

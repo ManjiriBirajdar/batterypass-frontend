@@ -1,0 +1,34 @@
+{
+    "batteryPassId": "BP109",
+    "generalInformation": [
+        "serialNumber: ABC12345",
+        "capacity: 3000mAh",
+        "manufacturer: Example Batteries Inc.",
+        "voltage: 3.7V",
+        "chemistry: Lithium-ion"
+    ],
+    "labelsAndCertifications": [
+        "certificationNumber: CERT123",
+        "compliance: RoHS"
+    ],
+    "supplyChainDueDiligence": [
+        "supplierName: Supplier XYZ",
+        "dueDiligenceReport: Due diligence report content"
+    ],
+    "carbonFootprintInformation": [
+        "emissions: 100 kg CO2e",
+        "reductionPlan: Carbon reduction plan"
+    ],
+    "materialsAndCompositions": [
+        "mainMaterial: Lithium-ion",
+        "components: ['Cathode', 'Anode', 'Electrolyte']"
+    ],
+    "circularityAndResourceEfficiency": [
+        "recyclingProgram: Recycling program details",
+        "circularityScore: A"
+    ],
+    "performanceAndDurability": [
+        "performanceMetrics: Performance metrics",
+        "durabilityTests: 'Durability test results"
+    ]
+}
