@@ -1,6 +1,6 @@
-# ZIRKEL PROJECT: Battery Passport Portal (UI for battery passport)
+# Battery Passport Portal (UI for battery passport)
 
-> A [SvelteKit-based](https://kit.svelte.dev/) UI application built using [Skeleton UI toolkit](https://www.skeleton.dev/), to view Battery Passport in the ZIRKEL Project. 
+> A [SvelteKit-based](https://kit.svelte.dev/) UI application built using [Skeleton UI toolkit](https://www.skeleton.dev/), to view Battery Passport. 
 
 > Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using Svelte + Tailwind CSS.
 
@@ -31,17 +31,6 @@ pnpm dev
 ```sh
 pnpm test
 ```
-
-## Author
-
-👤 **Arxum**
-
-* Website: [www.arxum.com](www.arxum.com)
-* GitHub: [@Arxum](https://github.com/Arxum)
-
-## 🐞 Bugs
-
-Feel free to check [issues page]().
 
 ## 📝 License
 
