@@ -1,4 +1,4 @@
-# Battery Passport Portal (UI for battery passport)
+# Frontend: Battery Passport 
 
 > A [SvelteKit-based](https://kit.svelte.dev/) UI application built using [Skeleton UI toolkit](https://www.skeleton.dev/), to view Battery Passport. 
 
