@@ -26,6 +26,13 @@ pnpm install
 pnpm dev
 ```
 
+## First Look
+
+![alt text](https://github.com/ManjiriBirajdar/batterypass-frontend/blob/main/static/Z1.png))
+
+![alt text](https://github.com/ManjiriBirajdar/batterypass-frontend/blob/main/static/Z2.png))
+
+
 ## Run tests (work in progress)
 
 ```sh
