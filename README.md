@@ -38,7 +38,3 @@ pnpm dev
 ```sh
 pnpm test
 ```
-
-## 📝 License
-
-Copyright © 2023 [Arxum](https://github.com/Arxum).
